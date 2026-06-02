@@ -21,7 +21,7 @@ const productos = [
     nombre: "Polo Ralph Lauren",
     talla: "M",
     precio: "$18.000",
-    foto: "bonsai.jpg",   // nombre exacto del archivo en /fotos/
+    foto: "bonsai",   // nombre exacto del archivo en /fotos/
   },
   {
     nombre: "Camiseta Tommy Hilfiger",
