@@ -3,7 +3,7 @@
 // ============================================================
 
 // Tu número de WhatsApp (con código de país, sin espacios ni +)
-const WA_NUMBER = "56912345678"; // <-- Reemplaza con tu número real
+const WA_NUMBER = "56995476138"; // <-- Reemplaza con tu número real
 
 // Carpeta donde guardarás las fotos de las prendas
 // Las imágenes deben estar en: fotos/nombre-del-archivo.jpg
@@ -21,7 +21,7 @@ const productos = [
     nombre: "Polo Ralph Lauren",
     talla: "M",
     precio: "$18.000",
-    foto: "polo-ralph-lauren.jpg",   // nombre exacto del archivo en /fotos/
+    foto: "bonsai.jpg",   // nombre exacto del archivo en /fotos/
   },
   {
     nombre: "Camiseta Tommy Hilfiger",
