@@ -21,7 +21,7 @@ const productos = [
     nombre: "Chaleco azul",
     talla: "M",
     precio: "$4.000",
-    foto: "Chaleco azul.jpeg",   // nombre exacto del archivo en /fotos/
+    foto: "Chaleco azul.png",   // nombre exacto del archivo en /fotos/
   },
   {
     nombre: "Chaleco beige",
@@ -33,31 +33,31 @@ const productos = [
     nombre: "Chaleco blanco hueso",
     talla: "32×30",
     precio: "$4.000",
-    foto: "Chaleco color blanco hueso.jpeg",
+    foto: "Chalecoblancohueso.png",
   },
   {
     nombre: "Chaleco verde claro",
     talla: "S",
     precio: "$42.000",
-    foto: "Chaleco Color Verde claro.jpeg",
+    foto: "Chalecoverdeclaro.png",
   },
   {
     nombre: "Chaleco con cuello tono claro",
     talla: "XL",
     precio: "$4.000",
-    foto: "chaleco con cuello tono claro.jpeg",
+    foto: "chaleco con cuello tono claro.png",
   },
   {
     nombre: "Chaleco de rayas blanco-mostaza",
     talla: "S",
     precio: "$4.000",
-    foto: "chaleco de rayas blanco y mostaza.jpeg",
+    foto: "chalecoblancoamarillo.png",
   },
   {
     nombre: "Chaleco con rosa blanco-negro.",
     talla: "M",
     precio: "$4.000",
-    foto: "chaleco de rosa blanco-negro.jpeg",
+    foto: "chalecoconrosa.png",
   },
   {
     nombre: "Chaleco morado",
@@ -69,7 +69,7 @@ const productos = [
     nombre: "Chaleco naranja",
     talla: "M",
     precio: "$4.000",
-    foto: "chaleco naranja.jpeg",
+    foto: "chaleco naranja.png",
   },
 ];
 
