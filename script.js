@@ -27,7 +27,7 @@ const productos = [
     nombre: "Chaleco beige",
     talla: "L",
     precio: "$4.000",
-    foto: "Chaleco color beige.jpeg",
+    foto: "Chaleco beige.png",
   },
   {
     nombre: "Chaleco blanco hueso",
@@ -63,7 +63,7 @@ const productos = [
     nombre: "Chaleco morado",
     talla: "M",
     precio: "$4.000",
-    foto: "chaleco morado.jpeg",
+    foto: "chaleco morado.png",
   },
   {
     nombre: "Chaleco naranja",
