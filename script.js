@@ -38,7 +38,7 @@ const productos = [
   {
     nombre: "Chaleco verde claro",
     talla: "S",
-    precio: "$42.000",
+    precio: "$4.000",
     foto: "Chalecoverdeclaro.png",
   },
   {
