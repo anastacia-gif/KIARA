@@ -18,52 +18,58 @@ const IMG_FOLDER = "fotos/";
 
 const productos = [
   {
-    nombre: "Polo Ralph Lauren",
+    nombre: "Chaleco azul",
     talla: "M",
-    precio: "$18.000",
-    foto: "bonsai.jpg",   // nombre exacto del archivo en /fotos/
+    precio: "$4.000",
+    foto: "Chaleco azul.jpeg",   // nombre exacto del archivo en /fotos/
   },
   {
-    nombre: "Camiseta Tommy Hilfiger",
+    nombre: "Chaleco beige",
     talla: "L",
-    precio: "$15.000",
-    foto: "tommy-camiseta.jpg",
+    precio: "$4.000",
+    foto: "Chaleco color beige.jpeg",
   },
   {
-    nombre: "Jeans Levi's 501",
+    nombre: "Chaleco blanco hueso",
     talla: "32×30",
-    precio: "$35.000",
-    foto: "levis-501.jpg",
+    precio: "$4.000",
+    foto: "Chaleco color blanco hueso.jpeg",
   },
   {
-    nombre: "Chaqueta Gap Denim",
+    nombre: "Chaleco verde claro",
     talla: "S",
     precio: "$42.000",
-    foto: "gap-denim.jpg",
+    foto: "Chaleco Color Verde claro.jpeg",
   },
   {
-    nombre: "Hoodie Nike Classic",
+    nombre: "Chaleco con cuello tono claro",
     talla: "XL",
-    precio: "$28.000",
-    foto: "nike-hoodie.jpg",
+    precio: "$4.000",
+    foto: "chaleco con cuello tono claro.jpeg",
   },
   {
-    nombre: "Vestido Banana Republic",
+    nombre: "Chaleco de rayas blanco-mostaza",
     talla: "S",
-    precio: "$32.000",
-    foto: "banana-republic-vestido.jpg",
+    precio: "$4.000",
+    foto: "chaleco de rayas blanco y mostaza.jpeg",
   },
   {
-    nombre: "Blusa Zara EE.UU.",
+    nombre: "Chaleco con rosa blanco-negro.",
     talla: "M",
-    precio: "$22.000",
-    foto: "zara-blusa.jpg",
+    precio: "$4.000",
+    foto: "chaleco de rosa blanco-negro.jpeg",
   },
   {
-    nombre: "Shorts Abercrombie",
+    nombre: "Chaleco morado",
     talla: "M",
-    precio: "$19.000",
-    foto: "abercrombie-shorts.jpg",
+    precio: "$4.000",
+    foto: "chaleco morado.jpeg",
+  },
+  {
+    nombre: "Chaleco naranja",
+    talla: "M",
+    precio: "$4.000",
+    foto: "chaleco naranja.jpeg",
   },
 ];
 
